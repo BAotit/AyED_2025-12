@@ -1,0 +1,6 @@
+D:\12_Gutierrez_Tito\12_Gutierrez_M\1_PC12_TP5\1_PC12_TP5\bin\Debug\1_PC12_TP5.exe.config
+D:\12_Gutierrez_Tito\12_Gutierrez_M\1_PC12_TP5\1_PC12_TP5\obj\Debug\1_PC12_TP5.csprojResolveAssemblyReference.cache
+D:\12_Gutierrez_Tito\12_Gutierrez_M\1_PC12_TP5\1_PC12_TP5\bin\Debug\1_PC12_TP5.exe
+D:\12_Gutierrez_Tito\12_Gutierrez_M\1_PC12_TP5\1_PC12_TP5\bin\Debug\1_PC12_TP5.pdb
+D:\12_Gutierrez_Tito\12_Gutierrez_M\1_PC12_TP5\1_PC12_TP5\obj\Debug\1_PC12_TP5.exe
+D:\12_Gutierrez_Tito\12_Gutierrez_M\1_PC12_TP5\1_PC12_TP5\obj\Debug\1_PC12_TP5.pdb

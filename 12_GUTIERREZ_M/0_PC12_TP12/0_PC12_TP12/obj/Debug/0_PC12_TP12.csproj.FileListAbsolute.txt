@@ -1,0 +1,6 @@
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP12\0_PC12_TP12\bin\Debug\0_PC12_TP12.exe.config
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP12\0_PC12_TP12\bin\Debug\0_PC12_TP12.exe
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP12\0_PC12_TP12\bin\Debug\0_PC12_TP12.pdb
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP12\0_PC12_TP12\obj\Debug\0_PC12_TP12.csprojResolveAssemblyReference.cache
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP12\0_PC12_TP12\obj\Debug\0_PC12_TP12.exe
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP12\0_PC12_TP12\obj\Debug\0_PC12_TP12.pdb
