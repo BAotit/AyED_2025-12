@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP12\1_PC12_TP12\bin\Debug\1_PC12_TP12.exe.config
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP12\1_PC12_TP12\bin\Debug\1_PC12_TP12.exe
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP12\1_PC12_TP12\bin\Debug\1_PC12_TP12.pdb
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP12\1_PC12_TP12\obj\Debug\1_PC12_TP12.exe
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP12\1_PC12_TP12\obj\Debug\1_PC12_TP12.pdb

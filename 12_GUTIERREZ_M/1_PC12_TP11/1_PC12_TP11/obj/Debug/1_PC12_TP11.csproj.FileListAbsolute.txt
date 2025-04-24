@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP11\1_PC12_TP11\bin\Debug\1_PC12_TP11.exe.config
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP11\1_PC12_TP11\bin\Debug\1_PC12_TP11.exe
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP11\1_PC12_TP11\bin\Debug\1_PC12_TP11.pdb
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP11\1_PC12_TP11\obj\Debug\1_PC12_TP11.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP11\1_PC12_TP11\obj\Debug\1_PC12_TP11.exe
+C:\Users\alumno.ET37\Desktop\DALILA\1_PC12_TP11\1_PC12_TP11\obj\Debug\1_PC12_TP11.pdb
+C:\Users\alumno.ET37\Desktop\gutierrez\1_PC12_TP11\1_PC12_TP11\bin\Debug\1_PC12_TP11.exe.config
+C:\Users\alumno.ET37\Desktop\gutierrez\1_PC12_TP11\1_PC12_TP11\obj\Debug\1_PC12_TP11.exe
+C:\Users\alumno.ET37\Desktop\gutierrez\1_PC12_TP11\1_PC12_TP11\obj\Debug\1_PC12_TP11.pdb
