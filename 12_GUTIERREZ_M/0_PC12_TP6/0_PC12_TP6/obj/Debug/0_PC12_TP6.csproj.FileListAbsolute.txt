@@ -1,0 +1,5 @@
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP6\0_PC12_TP6\bin\Debug\0_PC12_TP6.exe.config
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP6\0_PC12_TP6\bin\Debug\0_PC12_TP6.exe
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP6\0_PC12_TP6\bin\Debug\0_PC12_TP6.pdb
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP6\0_PC12_TP6\obj\Debug\0_PC12_TP6.exe
+D:\12_Gutierrez_Tito\12_Gutierrez_M\0_PC12_TP6\0_PC12_TP6\obj\Debug\0_PC12_TP6.pdb
