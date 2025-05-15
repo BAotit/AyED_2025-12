@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Nueva carpeta\2_PC12_TP0\2_PC12_TP0\bin\Debug\2_PC12_TP0.exe.config
+C:\Users\alumno.ET37\Downloads\Nueva carpeta\2_PC12_TP0\2_PC12_TP0\obj\Debug\2_PC12_TP0.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Nueva carpeta\2_PC12_TP0\2_PC12_TP0\bin\Debug\2_PC12_TP0.exe
+C:\Users\alumno.ET37\Downloads\Nueva carpeta\2_PC12_TP0\2_PC12_TP0\bin\Debug\2_PC12_TP0.pdb
+C:\Users\alumno.ET37\Downloads\Nueva carpeta\2_PC12_TP0\2_PC12_TP0\obj\Debug\2_PC12_TP0.exe
+C:\Users\alumno.ET37\Downloads\Nueva carpeta\2_PC12_TP0\2_PC12_TP0\obj\Debug\2_PC12_TP0.pdb
