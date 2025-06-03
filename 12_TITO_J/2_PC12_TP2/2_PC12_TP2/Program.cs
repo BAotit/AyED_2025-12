@@ -22,78 +22,67 @@ Verificar si se cumplen las condiciones para aprobar la materia.
 Mostrar un mensaje indicando si Phineas y Ferb pueden aprobar la materia.
 
 */
-//Valores
+
+            // Variables
             int tps = 0;
             int examenes = 0;
-            int nota_tps = 0;
-            int nota_examenes = 0;
-            float promedio = 0;
-            int tpsAprobados = 0;
+            int nota_tps_total = 0;
+            int nota_examenes_total = 0;
+            float promedio_examenes = 0;
+            int tps_aprobados = 0;
 
-            //Interfaz + Cantidad de TPs y examenes
+            // Interfaz + Cantidad de TPs y Exámenes
+            Console.WriteLine("  === Bienvenido al sistema de Phineas y Ferb === ");
+            Console.Write("Ingresar la cantidad de TPs: ");
+            tps = int.Parse(Console.ReadLine()!);
 
-            Console.WriteLine("  === Bienvenido a El sistme de Phineas y Ferb === ");
-            Console.WriteLine(" ingresar la cantidad de TPs :");
+            Console.Write("Ingresar la cantidad de Exámenes: ");
+            examenes = int.Parse(Console.ReadLine()!);
 
-            tps = int.Parse(Console.ReadLine());
-
-            Console.WriteLine(" ingresar la cantidad de Examenes :");
-
-            examenes = int.Parse(Console.ReadLine());
-
-            // Notas por cada TP y examen
-
-            int[]  notas_1 = new int[tps];
-
+            // Ingresar notas de los TPs
+            int[] notas_tps = new int[tps];
             for (int i = 0; i < tps; i++)
             {
+                Console.Write("Ingresar la nota del TP " + (i + 1) + ": ");
+                notas_tps[i] = int.Parse(Console.ReadLine()!);
+                nota_tps_total += notas_tps[i];
 
-                Console.WriteLine("ingresar las notas de cada TP. " + (i + 1) + ": ");
-                notas_1[i] = int.Parse(Console.ReadLine());
-                nota_tps = nota_tps + notas_1[i];
-
-                if (notas_1[i] >= 6)
+                if (notas_tps[i] >= 6)
                 {
-                tpsAprobados++; // contar cuántos TP tienen nota >= 6
+                    tps_aprobados++;
                 }
             }
 
-        
-            int[] notas_2 = new int[examenes];
-
+            // Ingresar notas de los exámenes
+            int[] notas_examenes = new int[examenes];
             for (int i = 0; i < examenes; i++)
             {
-
-                Console.WriteLine("ingresar las notas de cada Examen. " + (i + 1) + ": ");
-                notas_2[i] = int.Parse(Console.ReadLine());
-                nota_examenes = nota_examenes + notas_2[i];
+                Console.Write("Ingresar la nota del Examen " + (i + 1) + ": ");
+                notas_examenes[i] = int.Parse(Console.ReadLine()!);
+                nota_examenes_total += notas_examenes[i];
             }
 
+            // Calcular promedio de exámenes
+            promedio_examenes = (float)nota_examenes_total / examenes;
 
-            //Calculo de promedio
-            promedio = nota_examenes / examenes;
+            // Calcular porcentaje de TPs aprobados
+            float porcentaje_tps_aprobados = ((float)tps_aprobados / tps) * 100;
 
-            // Calcular 75% de TPs necesarios
-            int tpsNecesarios = (int)nota_tps * 0.75;
+            // Mostrar resultados
+            Console.WriteLine("\n=== Resultados ===");
+            Console.WriteLine("Promedio de exámenes: " + promedio_examenes);
+            Console.WriteLine("Porcentaje de TPs aprobados: " + porcentaje_tps_aprobados + "%");
 
-            // Verificar condiciones
-            bool apruebaExamenes = promedio >= 6;
-            bool apruebaTPs = tpsAprobados >= tpsNecesarios;
-
-
-            Console.WriteLine("=== Resultados ===");
-            Console.WriteLine("Promedio de exámenes: " + promedio);
-            Console.WriteLine("TPs aprobados: " + tpsAprobados + " / " + tps);
-            Console.WriteLine("Se necesitan al menos " + tpsNecesarios + " TPs aprobados (75%).");
-
-            if (apruebaExamenes && apruebaTPs)
+            // Verificar si aprueban
+            if (promedio_examenes >= 6 && porcentaje_tps_aprobados >= 75)
             {
-                Console.WriteLine("Phineas y Ferb aprueban la materia!");
+                Console.WriteLine("¡Phineas y Ferb pueden aprobar la materia! ");
             }
             else
             {
-                Console.WriteLine("Phineas y Ferb no aprueban la materia");
+                Console.WriteLine("Phineas y Ferb NO pueden aprobar la materia. ");
             }
+
             Console.ReadKey();
         }
     }
