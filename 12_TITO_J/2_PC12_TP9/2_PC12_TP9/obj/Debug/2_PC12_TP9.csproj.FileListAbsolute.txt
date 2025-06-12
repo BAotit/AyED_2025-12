@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\gutierrez\2_PC12_TP9\2_PC12_TP9\bin\Debug\2_PC12_TP9.exe.config
+C:\Users\alumno.ET37\Desktop\gutierrez\2_PC12_TP9\2_PC12_TP9\bin\Debug\2_PC12_TP9.exe
+C:\Users\alumno.ET37\Desktop\gutierrez\2_PC12_TP9\2_PC12_TP9\bin\Debug\2_PC12_TP9.pdb
+C:\Users\alumno.ET37\Desktop\gutierrez\2_PC12_TP9\2_PC12_TP9\obj\Debug\2_PC12_TP9.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\gutierrez\2_PC12_TP9\2_PC12_TP9\obj\Debug\2_PC12_TP9.exe
+C:\Users\alumno.ET37\Desktop\gutierrez\2_PC12_TP9\2_PC12_TP9\obj\Debug\2_PC12_TP9.pdb
