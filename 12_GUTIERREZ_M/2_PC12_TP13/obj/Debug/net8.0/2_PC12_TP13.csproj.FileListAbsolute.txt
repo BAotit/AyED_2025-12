@@ -1,0 +1,4 @@
+C:\Users\DELL\Desktop\Programacion\2_PC12_TP13\obj\Debug\net8.0\2_PC12_TP13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programacion\2_PC12_TP13\obj\Debug\net8.0\2_PC12_TP13.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programacion\2_PC12_TP13\obj\Debug\net8.0\2_PC12_TP13.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programacion\2_PC12_TP13\obj\Debug\net8.0\2_PC12_TP13.csproj.CoreCompileInputs.cache
