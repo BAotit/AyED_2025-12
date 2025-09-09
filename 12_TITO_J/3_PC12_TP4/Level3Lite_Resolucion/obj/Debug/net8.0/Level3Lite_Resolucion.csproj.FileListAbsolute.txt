@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\Level3Lite_Resolucion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\Level3Lite_Resolucion.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\Level3Lite_Resolucion.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\Level3Lite_Resolucion.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\bin\Debug\net8.0\Level3Lite_Resolucion.exe
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\bin\Debug\net8.0\Level3Lite_Resolucion.deps.json
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\bin\Debug\net8.0\Level3Lite_Resolucion.runtimeconfig.json
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\bin\Debug\net8.0\Level3Lite_Resolucion.dll
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\bin\Debug\net8.0\Level3Lite_Resolucion.pdb
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\Level3Lite_Resolucion.dll
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\refint\Level3Lite_Resolucion.dll
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\Level3Lite_Resolucion.pdb
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\Level3Lite_Resolucion.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programacion\funciones\Level3Lite_Resolucion\obj\Debug\net8.0\ref\Level3Lite_Resolucion.dll

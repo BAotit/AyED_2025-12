@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Level3Lite_Resolucion/1.0.0": {
+        "runtime": {
+          "Level3Lite_Resolucion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Level3Lite_Resolucion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
