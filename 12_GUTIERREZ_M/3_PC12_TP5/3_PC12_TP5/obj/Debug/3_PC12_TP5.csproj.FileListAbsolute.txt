@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\3_PC12_TP5\3_PC12_TP5\bin\Debug\3_PC12_TP5.exe.config
+C:\Users\alumno.ET37\Desktop\3_PC12_TP5\3_PC12_TP5\bin\Debug\3_PC12_TP5.exe
+C:\Users\alumno.ET37\Desktop\3_PC12_TP5\3_PC12_TP5\bin\Debug\3_PC12_TP5.pdb
+C:\Users\alumno.ET37\Desktop\3_PC12_TP5\3_PC12_TP5\obj\Debug\3_PC12_TP5.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\3_PC12_TP5\3_PC12_TP5\obj\Debug\3_PC12_TP5.exe
+C:\Users\alumno.ET37\Desktop\3_PC12_TP5\3_PC12_TP5\obj\Debug\3_PC12_TP5.pdb
