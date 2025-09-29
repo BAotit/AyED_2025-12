@@ -1,0 +1,14 @@
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\bin\Debug\net8.0\3_PC12_TP6.exe
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\bin\Debug\net8.0\3_PC12_TP6.deps.json
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\bin\Debug\net8.0\3_PC12_TP6.runtimeconfig.json
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\bin\Debug\net8.0\3_PC12_TP6.dll
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\bin\Debug\net8.0\3_PC12_TP6.pdb
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\3_PC12_TP6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\3_PC12_TP6.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\3_PC12_TP6.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\3_PC12_TP6.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\3_PC12_TP6.dll
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\refint\3_PC12_TP6.dll
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\3_PC12_TP6.pdb
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\3_PC12_TP6.genruntimeconfig.cache
+C:\Users\DELL\Desktop\Programacion\3_PC12_TP6\3_PC12_TP6\obj\Debug\net8.0\ref\3_PC12_TP6.dll
